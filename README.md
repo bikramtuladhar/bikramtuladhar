@@ -24,6 +24,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello Dev.to](https://dev.to/bikramtuladhar/hello-dev-to-5a66)
+- [YoungInnovations Weekly Blog #287 — YI Hack Day 2021, Work from home resume, Birthday Celebration](https://blog.yipl.com.np/younginnovations-weekly-blog-287-yi-hack-day-2021-work-from-home-resume-birthday-celebration-41632055a8c3?source=rss-7b3533eb5a8a------2)
+- [YoungInnovations Weekly Blog #236 — Mother’s day, Figma, blogs and birthday wishes](https://blog.yipl.com.np/younginnovations-weekly-blog-236-mothers-day-figma-blogs-and-birthday-wishes-a37cae6756b0?source=rss-7b3533eb5a8a------2)
+- [Backend Knowledge Sharing #10](https://blog.yipl.com.np/backend-knowledge-sharing-10-67cf4f4fb7bc?source=rss-7b3533eb5a8a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
